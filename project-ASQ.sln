@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project-ASQ", "project-ASQ\project-ASQ.csproj", "{6CA17525-B27A-426D-83BC-A8059DBB6490}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CA17525-B27A-426D-83BC-A8059DBB6490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CA17525-B27A-426D-83BC-A8059DBB6490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CA17525-B27A-426D-83BC-A8059DBB6490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CA17525-B27A-426D-83BC-A8059DBB6490}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAD336EA-FE03-483D-AEA1-F102EB773054}
+	EndGlobalSection
+EndGlobal

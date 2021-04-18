@@ -1,0 +1,15 @@
+C:\Users\16138\source\repos\project-ASQ\project-ASQ\bin\Debug\netcoreapp3.1\project-ASQ.exe
+C:\Users\16138\source\repos\project-ASQ\project-ASQ\bin\Debug\netcoreapp3.1\project-ASQ.deps.json
+C:\Users\16138\source\repos\project-ASQ\project-ASQ\bin\Debug\netcoreapp3.1\project-ASQ.runtimeconfig.json
+C:\Users\16138\source\repos\project-ASQ\project-ASQ\bin\Debug\netcoreapp3.1\project-ASQ.runtimeconfig.dev.json
+C:\Users\16138\source\repos\project-ASQ\project-ASQ\bin\Debug\netcoreapp3.1\project-ASQ.dll
+C:\Users\16138\source\repos\project-ASQ\project-ASQ\bin\Debug\netcoreapp3.1\project-ASQ.pdb
+C:\Users\16138\source\repos\project-ASQ\project-ASQ\obj\Debug\netcoreapp3.1\project-ASQ.csprojAssemblyReference.cache
+C:\Users\16138\source\repos\project-ASQ\project-ASQ\obj\Debug\netcoreapp3.1\project_ASQ.Form1.resources
+C:\Users\16138\source\repos\project-ASQ\project-ASQ\obj\Debug\netcoreapp3.1\project-ASQ.csproj.GenerateResource.cache
+C:\Users\16138\source\repos\project-ASQ\project-ASQ\obj\Debug\netcoreapp3.1\project-ASQ.AssemblyInfoInputs.cache
+C:\Users\16138\source\repos\project-ASQ\project-ASQ\obj\Debug\netcoreapp3.1\project-ASQ.AssemblyInfo.cs
+C:\Users\16138\source\repos\project-ASQ\project-ASQ\obj\Debug\netcoreapp3.1\project-ASQ.csproj.CoreCompileInputs.cache
+C:\Users\16138\source\repos\project-ASQ\project-ASQ\obj\Debug\netcoreapp3.1\project-ASQ.dll
+C:\Users\16138\source\repos\project-ASQ\project-ASQ\obj\Debug\netcoreapp3.1\project-ASQ.pdb
+C:\Users\16138\source\repos\project-ASQ\project-ASQ\obj\Debug\netcoreapp3.1\project-ASQ.genruntimeconfig.cache
