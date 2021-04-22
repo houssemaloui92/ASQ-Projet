@@ -1,0 +1,1 @@
+Numero de l'etudiant:  22Numero de cours :   10Note:  80
